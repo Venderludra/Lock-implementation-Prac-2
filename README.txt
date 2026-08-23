@@ -1,7 +1,7 @@
 Group Members
 1. Nico Sibiya - u24667642
 2. Tshegofatso Kungwane - u23605032
-3. Liam du Toit - u
+3. Liam du Toit - u24685993
 
 Concurrent Lock Algorithms
 
